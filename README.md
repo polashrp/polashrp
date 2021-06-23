@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <br />
 
 - 🔭 I’m currently working on various open-source web projects using React & Node.
-- 🌱 GSoC'21 @ [ThanosMetrics](https://github.com/thanos-io) ([@CNCF](https://github.com/cncf)), Former SDE Intern @ [ChaosNative](https://chaosnative.com/)
+- 🌱 "Luke" @ [Lukemotor](https://www.lukemotor.com/)
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
@@ -34,6 +34,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Will forget to sleep sometimes...😁
 - ✍️ Blog: I write technical articles on [dev.to](https://github.com/polashrp")
 - 🕸Website: https://github.com/polashrp"
+-
+## My Complete Projects
+# [Lukemotor] (https://www.lukemotor.com/)
 
 ## Technologies I can work with
 
