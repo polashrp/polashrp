@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+# I'm Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <a href="https://habibpolas.wordpress.com/">Website</a> •
 <a href="https://twitter.com/habibpolas">Twitter</a> •
@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 <code><img height="45" alt="Kubernetes" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
 
-![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=saswatamcode&show_icons=true&hide=["issues"]&theme=tokyonight)
+![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
 
 <!--
 
