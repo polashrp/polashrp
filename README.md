@@ -29,7 +29,8 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: saswataminsta@yahoo.com, [Twitter](https://twitter.com/habibpolas), [LinkedIn](https://www.linkedin.com/in/polashabib/)
+- 📫 Call: +8801913744339 [Wechat: @habibhrp]
+- 📫 How to reach me: habibhrp2640@gmail.com,[Facebook](https://www.facebook.com/polas.habib/) [Twitter](https://twitter.com/habibpolas), [LinkedIn](https://www.linkedin.com/in/polashabib/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Will forget to sleep sometimes...😁
 - ✍️ Blog: I write technical articles on [dev.to](https://github.com/polashrp")
