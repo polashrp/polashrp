@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ## My Complete Projects
 ### @[Luke ERP System](https://www.lukemotor.com/soft) @[Lukemotor](https://www.lukemotor.com)  @[ekhoneta](https://www.ekhoneta.com) 
 ### @[Home delivery System](http://homedeliverybd.com/)
-### @[Forexprofita](https://www.forexprofita.com) ### @[oursoffer](https://oursoffer.com/)
+### @[Forexprofita](https://www.forexprofita.com) @[oursoffer](https://oursoffer.com/)
 
 ## Technologies I can work with
 ###
