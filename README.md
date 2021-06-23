@@ -15,25 +15,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Saswata <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+# Hi there, I'm Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
-<a href="https://saswatamcode.tech/">Website</a> •
-<a href="https://twitter.com/intent/follow?screen_name=saswatamcode&tw_p=followbutton/">Twitter</a> •
-<a href="https://www.linkedin.com/in/saswatamcode/">LinkedIn</a> •
-<a href="https://dev.to/saswatamcode/">Dev.to</a> •
-<a href="https://github.com/saswatamcode/">GitHub</a>
+<a href="https://habibpolas.wordpress.com/">Website</a> •
+<a href="https://twitter.com/habibpolas">Twitter</a> •
+<a href="https://www.linkedin.com/in/polashabib/">LinkedIn</a> •
+<a href="https://dev.to/enghabib">Dev.to</a> •
+<a href="https://github.com/polashrp">GitHub</a>
 <br />
 
-- 🔭 I’m currently working on various open-source web projects using React & Go.
+- 🔭 I’m currently working on various open-source web projects using React & Node.
 - 🌱 GSoC'21 @ [ThanosMetrics](https://github.com/thanos-io) ([@CNCF](https://github.com/cncf)), Former SDE Intern @ [ChaosNative](https://chaosnative.com/)
 - 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
 - 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
 - 💬 Ask me about anything, I'm happy to help!
-- 📫 How to reach me: saswataminsta@yahoo.com, [Twitter](https://twitter.com/saswatamcode), [LinkedIn](https://www.linkedin.com/in/saswatamcode/)
+- 📫 How to reach me: saswataminsta@yahoo.com, [Twitter](https://twitter.com/habibpolas), [LinkedIn](https://www.linkedin.com/in/polashabib/)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Will forget to sleep sometimes...😁
-- ✍️ Blog: I write technical articles on [dev.to](https://dev.to/saswatamcode)
-- 🕸Website: https://saswatamcode.tech/
+- ✍️ Blog: I write technical articles on [dev.to](https://github.com/polashrp")
+- 🕸Website: https://github.com/polashrp"
 
 ## Technologies I can work with
 
