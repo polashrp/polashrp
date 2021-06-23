@@ -36,7 +36,8 @@ Here are some ideas to get you started:
 - 🕸Website: https://github.com/polashrp"
 -
 ## My Complete Projects
-# [Lukemotor] (https://www.lukemotor.com/)
+#### @[Lukemotor](https://www.lukemotor.com)
+### @[Forexprofita](https://www.forexprofita.com)
 
 ## Technologies I can work with
 
