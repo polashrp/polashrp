@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 - 🕸Website: https://github.com/polashrp"
 -
 ## My Complete Projects
-### @[Zoho ERP Solution](https://www.lukemotor.com/soft](https://www.linkedin.com/company/hrpdev/?viewAsMember=true)
+### @[Zoho ERP Solution](https://www.linkedin.com/company/hrpdev/?viewAsMember=true)
 ### @[Luke ERP System](https://www.lukemotor.com/soft) @[Lukemotor](https://www.lukemotor.com)  @[ekhoneta](https://www.ekhoneta.com) 
 ### @[Home delivery System](http://homedeliverybd.com/)
 ### @[Forexprofita](https://www.forexprofita.com) @[oursoffer](https://oursoffer.com/)
