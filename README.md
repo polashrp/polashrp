@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## I'm Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+## This is Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
 
 <a href="https://habibpolas.wordpress.com/">Website</a> •
 <a href="https://twitter.com/habibpolas">Twitter</a> •
