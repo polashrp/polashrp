@@ -99,8 +99,6 @@ Here are some ideas to get you started:
 <code><img height="45" alt="Kubernetes" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 ## 📊 Github Stats
 
-<img align="left" alt="FutureSea-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight" height="170px"/>
-![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
-
+(https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
 <img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
