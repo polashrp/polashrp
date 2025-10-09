@@ -122,3 +122,8 @@ Here are some ideas to get you started:
 
 -->
 
+## 📊 Github Stats
+
+<img align="left" alt="FutureSea-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=futuresea-dev&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+
