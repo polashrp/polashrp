@@ -101,29 +101,10 @@ Here are some ideas to get you started:
 
 ![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
 
-<!--
-
-[![HitCount](http://hits.dwyl.com/saswatamcode/saswatamcode.svg)](http://hits.dwyl.com/saswatamcode/saswatamcode)
-
-**saswatamcode/saswatamcode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<a href="https://twitter.com/saswatamcode"><img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a><a href="https://www.linkedin.com/in/saswatamcode/"><img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a><a href="https://github.com/saswatamcode"><img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" /></a> <a href="https://dev.to/saswatamcode"><img align="left" alt="Dev.to" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/dev-dot-to.svg" /></a>
-
--->
-
 ## 📊 Github Stats
 
-<img align="left" alt="FutureSea-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=futuresea-dev&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/>
+<!-- <img align="left" alt="FutureSea-Dev's Github Stats" src="https://github-readme-stats.vercel.app/api?username=futuresea-dev&show_icons=true&include_all_commits=true&count_private=true&icon_color=fff&text_color=fff&bg_color=DEG,000,000,001,002,003" height="170px"/> -->
+![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
+
 <img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
