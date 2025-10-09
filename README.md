@@ -28,6 +28,35 @@ Here are some ideas to get you started:
 <a href="https://github.com/polashrp">GitHub</a>
 <br />
 
+- 🔭 I’m currently working on various open-source web projects using React & Node.
+- 🌱 "Luke" @ [Lukemotor](https://www.lukemotor.com/)
+- 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
+- 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
+- 💬 Ask me about anything, I'm happy to help!
+- 📫 Call: +8801913744339 [Wechat: @habibhrp2640] [Skype: polas.habib]
+- 📫 How to reach me: habibhrp2640@gmail.com,[Facebook](https://www.facebook.com/polas.habib/) [Twitter](https://twitter.com/habibpolas), [LinkedIn](https://www.linkedin.com/in/polashabib/)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: Will forget to sleep sometimes...😁
+- ✍️ Blog: I write technical articles on [dev.to](https://github.com/polashrp")
+- 🕸Website: https://github.com/polashrp"
+-
+## My Complete Projects
+### @[Zoho ERP Solution](https://www.linkedin.com/company/hrpdev/?viewAsMember=true)
+### @[Mychefur](https://mychfeur.com)
+### @[Luke ERP System](https://www.lukemotor.com/soft) @[Lukemotor](https://www.lukemotor.com)  @[ekhoneta](https://www.ekhoneta.com) 
+### @[Forexprofita](https://www.forexprofita.com) @[oursoffer](https://oursoffer.com/)
+
+## Technologies I can work with
+###
+<!-- <code><img height="45" alt="HTML5" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+<code><img height="45" alt="CSS3" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+<code><img height="45" alt="JavaScript" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="45" alt="TypeScript" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="45" alt="Python" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+<code><img height="45" alt="ios" style="background: white;" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
+<code><img height="45" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="45" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code> -->
+
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
@@ -51,35 +80,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-- 🔭 I’m currently working on various open-source web projects using React & Node.
-- 🌱 "Luke" @ [Lukemotor](https://www.lukemotor.com/)
-- 👯 I’m looking to collaborate on any project that'll help me learn new things!😊
-- 🤔 I’m looking for help with K8s, Observability and Cloud Native technologies!
-- 💬 Ask me about anything, I'm happy to help!
-- 📫 Call: +8801913744339 [Wechat: @habibhrp2640] [Skype: polas.habib]
-- 📫 How to reach me: habibhrp2640@gmail.com,[Facebook](https://www.facebook.com/polas.habib/) [Twitter](https://twitter.com/habibpolas), [LinkedIn](https://www.linkedin.com/in/polashabib/)
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Will forget to sleep sometimes...😁
-- ✍️ Blog: I write technical articles on [dev.to](https://github.com/polashrp")
-- 🕸Website: https://github.com/polashrp"
--
-## My Complete Projects
-### @[Zoho ERP Solution](https://www.linkedin.com/company/hrpdev/?viewAsMember=true)
-### @[Mychefur](https://mychfeur.com)
-### @[Luke ERP System](https://www.lukemotor.com/soft) @[Lukemotor](https://www.lukemotor.com)  @[ekhoneta](https://www.ekhoneta.com) 
-### @[Forexprofita](https://www.forexprofita.com) @[oursoffer](https://oursoffer.com/)
-
-## Technologies I can work with
-###
-<code><img height="45" alt="HTML5" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="45" alt="CSS3" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="45" alt="JavaScript" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="45" alt="TypeScript" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="45" alt="Python" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="45" alt="ios" style="background: white;" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ios/ios.png"></code>
-<code><img height="45" alt="Java" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
-<code><img height="45" alt="Android" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png"></code>
 
 ###
 <code><img height="45" alt="Dart" style="background: white;" src="https://dart.dev/assets/shared/dart/logo+text/horizontal/white-e71fb382ad5229792cc704b3ee7a88f8013e986d6e34f0956d89c453b454d0a5.svg"></code>
