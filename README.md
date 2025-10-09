@@ -18,6 +18,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
+## This is Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
+
+<a href="https://habibpolas.wordpress.com/">Website</a> •
+<a href="https://twitter.com/habibpolas">Twitter</a> •
+<a href="https://www.linkedin.com/in/polashabib/">LinkedIn</a> •
+<a href="https://dev.to/enghabib">Dev.to</a> •
+<a href="https://github.com/polashrp">GitHub</a>
+<br />
+
 ![](https://img.shields.io/badge/Language-Python-informational?style=flat&logo=python&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Django-informational?style=flat&logo=django&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Framework-Flask-informational?style=flat&logo=flask&logoColor=white&color=3bac3a)
@@ -41,16 +51,6 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-Digital_Ocean-informational?style=flat&logo=digitalocean&logoColor=white&color=3bac3a)
 ![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=Amazon&logoColor=white&color=3bac3a)
-
-
-## This is Engineer Habib <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="35px">
-
-<a href="https://habibpolas.wordpress.com/">Website</a> •
-<a href="https://twitter.com/habibpolas">Twitter</a> •
-<a href="https://www.linkedin.com/in/polashabib/">LinkedIn</a> •
-<a href="https://dev.to/enghabib">Dev.to</a> •
-<a href="https://github.com/polashrp">GitHub</a>
-<br />
 
 - 🔭 I’m currently working on various open-source web projects using React & Node.
 - 🌱 "Luke" @ [Lukemotor](https://www.lukemotor.com/)
