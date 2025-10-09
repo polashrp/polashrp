@@ -98,6 +98,15 @@ Here are some ideas to get you started:
 <code><img height="45" alt="Docker" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
 <code><img height="45" alt="Kubernetes" style="background: white;" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kubernetes/kubernetes.png"></code>
 
+
+## 🔥 Streak Stats
+
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=polashrp&theme=tokyonight_duo&hide_border=true" alt="polashrp" />
+  <p align="center"> Stay hungry, Stay foolish 🔥 </p>
+</p>
+
+
 ## 📊 Github Stats
 ![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
 </br>
