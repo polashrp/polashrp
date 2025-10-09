@@ -101,5 +101,5 @@ Here are some ideas to get you started:
 ## 📊 Github Stats
 ![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
 </br>
-<img align="right" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+<img align="left" alt="FutureSea-Dev's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=futuresea-dev&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
 
