@@ -95,4 +95,14 @@ Here are some ideas to get you started:
 ![saswatamcode's GitHub stats](https://github-readme-stats.vercel.app/api?username=polashrp&show_icons=true&hide=["issues"]&theme=tokyonight)
 </br>
 <img align="left" alt="polashrp Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=polashrp&layout=compact&langs_count=8&theme=dark&hide_border=false&title_color=F85D7F&icon_color=F8D866" height="170px"/>
+ <script>
+	window.$zoho = window.$zoho || {};
+	$zoho.salesiq = $zoho.salesiq || {
+		ready: function(){}
+	}
+</script>
+<script id = "zsiqscript" src = "https://salesiq.zoho.com/widget?wc=siq30a9ef205126da6b93fd2588ee84a5615183de1289e0570247760472a3a309ed" defer >
+</script>
+
+	<script>window.$zoho=window.$zoho || {};$zoho.salesiq=$zoho.salesiq||{ready:function(){}}</script><script id="zsiqscript" src="https://salesiq.zohopublic.com/widget?wc=siq30a9ef205126da6b93fd2588ee84a5615183de1289e0570247760472a3a309ed" defer></script>
 
